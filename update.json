@@ -1,7 +1,6 @@
-// update.json
 {
-  "versionCode": 4,
+  "versionCode": 101,
   "versionName": "v1.0.1",
-  "updateContent": "更新说明",
+  "updateContent": "修复了一些问题！",
   "downloadUrl": "你的 APK 直链"
 }
