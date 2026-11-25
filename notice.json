@@ -1,6 +1,5 @@
-// notice.json
 {
   "show": true,
-  "title": "测试公告",
-  "content": "公告内容"
+  "title": "公告测试",
+  "content": "这是我的第一条公告！"
 }
